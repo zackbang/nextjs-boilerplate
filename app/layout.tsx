@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio | Landing Page",
-  description: "Landing page portofolio modern menggunakan Next.js 15 dan Tailwind CSS.",
+  title: "Portfolio | Fadli Kurniawan",
+  description: " ",
 };
 
 export default function RootLayout({
