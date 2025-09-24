@@ -591,7 +591,7 @@ export default function Home() {
 
       <footer className="border-t border-border bg-background-secondary/30">
         <div className="mx-auto max-w-6xl px-6 py-10 text-center text-sm text-foreground-secondary">
-          © {new Date().getFullYear()} Portofolio. Dibuat dengan Next.js.
+          © {new Date().getFullYear()} Fadli Kurniawan. 
         </div>
       </footer>
     </main>
